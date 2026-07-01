@@ -1,5 +1,4 @@
-# qa-chatbot
-
+# Q&A chatbot
 ## Introduction
 
 qa-chatbot is a simple, lightweight Q&A chatbot built with Streamlit and LangChain that demonstrates how to connect conversational LLMs to a minimal web UI. It provides two example frontends:
